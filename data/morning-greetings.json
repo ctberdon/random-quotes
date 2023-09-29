@@ -53,7 +53,7 @@
   },
   {
     "a": "Unknown",
-    "q": "Panagsa ra gani ta mo laag, pag uli nato buricat natas tibuok barangay."
+    "q": "Panagsa ra gani ta mo laag, pag uli nato burikat natas tibuok barangay."
   },
   {
     "a": "R",
@@ -77,7 +77,7 @@
   },
   {
     "a": "Gabiga",
-    "q": "Kanang hitsuraan ka sa filter, pero sa personal mura ka'g kanding nabughat."
+    "q": "Kanang hitsuraan ka sa filter, Pero sa personal mura kag kanding nabughat."
   },
   {
     "a": "Angelo",
@@ -89,7 +89,7 @@
   },
   {
     "a": "Unknown",
-    "q": "Kana inyong patama post og inyo pana gi diretso og barang human na tana na..!"
+    "q": "Kana inyong patama post ug inyo pana gi diretso ug barang human na tana na..!"
   },
   {
     "a": "Kugmohon",
@@ -97,7 +97,7 @@
   },
   {
     "a": "Unknown",
-    "q": "Gi ingnan lang gani'g babyface, cerelac na dayun gikaon."
+    "q": "Gi ingnan lang ganig baby face, cerelac na dayun gi kaon."
   },
   {
     "a": "Sabel",
@@ -105,7 +105,7 @@
   },
   {
     "a": "Nagbiga",
-    "q": "Nganong dli man ko ninyo palaagon nga dili man ko mo lapas sa Philippine Area of Responsibility."
+    "q": "Nganong dli man ko ninyo palaagon nga dili man ko mo lapas sa Philippine Area of responsibility."
   },
   {
     "a": "TS",
@@ -113,7 +113,7 @@
   },
   {
     "a": "Yagit",
-    "q": "Ulawa magsuka sa bus oy, may gani gitulon nakog balik."
+    "q": "Ulawa mag suka sa bus uy, may gani gi tulon nakog balik."
   },
   {
     "a": "Tambay",
@@ -141,7 +141,7 @@
   },
   {
     "a": "Bigatlon",
-    "q": "Ang lalaki mura'g bag-ong t-shirt, mahumol lang, molubad na."
+    "q": "Ang lalaki mura'g bag-ong t-shirt, mahumol lang, mulubad na."
   },
   {
     "a": "Bigaon",
@@ -154,10 +154,6 @@
   {
     "a": "R",
     "q": "Dili mag-bitter2x. Naa may forever, wa lang gyu'y para imoha."
-  },
-  {
-    "a": "Rey",
-    "q": "Di man unta ni mogahi og wala nimo duwa-e -- kasing-kasing"
   },
   {
     "a": "R",
@@ -186,5 +182,17 @@
   {
     "a": "R",
     "q": "Unta, tanan loyal nga babae, maadto sa seryoso nga lalaki.\nUg tanan bigaon nga bae, maadto sa manyakis nga laki.\nAron everybody happy."
+  },
+  {
+    "a": "Bigaon",
+    "q": "Na sayo na ang lahat... BURIKAT. IGAT. SIPAT."
+  },
+  {
+    "a": "R",
+    "q": "Mura ko'g kalag, sige'g paramdam nimo,\nMura pud ka'g patay, deadma kaayo. Ahak nalang nimo."
+  },
+  {
+    "a": "R",
+    "q": "Pasagdi nga HATE ka nila. Tutal, ang audience impact 10% ra."
   }
 ]
