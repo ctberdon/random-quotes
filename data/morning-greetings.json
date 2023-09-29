@@ -89,10 +89,10 @@
   },
   {
     "a": "Unknown",
-    "q": "Kana inyong patama post ug inyo pana gi dretso ug barang human na tana na..!"
+    "q": "Kana inyong patama post ug inyo pana gi diretso ug barang human na tana na..!"
   },
   {
-    "a": "Unknown",
+    "a": "Kugmohon",
     "q": "Maka sabay ba ang kiang sa dagan sa panahon?"
   },
   {
@@ -100,11 +100,11 @@
     "q": "Gi ingnan lang ganig baby face, cerelac na dayun gi kaon."
   },
   {
-    "a": "Unknown",
+    "a": "Sabel",
     "q": "Samtang di pako kabalo sa orasyon sa barang sabton sa tamo tanan"
   },
   {
-    "a": "Unknown",
+    "a": "Nagbiga",
     "q": "Nganong dli man ko ninyo palaagon nga dili man ko mo lapas sa Philippine Area of responsibility."
   },
   {
@@ -112,35 +112,47 @@
     "q": "Kanang nag silent cry ka unya naka loud-speak imong sip-on."
   },
   {
-    "a": "Unknown",
+    "a": "T",
     "q": "Naa jud tay barkada pugson tag inom bisag dli ta kamao mo balibad."
   },
   {
-    "a": "Unknown",
+    "a": "Yagit",
     "q": "Ulawa mag suka sa bus uy, may gani gi tulon nakog balik."
   },
   {
-    "a": "Unknown",
+    "a": "Tambay",
     "q": "Dyosnon unta ko ron, kung wala ko ka barkada ug second hand ni satanas"
   },
   {
-    "a": "Unknown",
+    "a": "Tambay",
     "q": "Miss na kaayo tika. Pero wala man kay pake, maong joke ra bitaw..."
   },
   {
-    "a": "Unknown",
+    "a": "Felingon",
     "q": "Di na gani gwapo,\nDi pa gyud loyal.\nBaga'g nawong."
   },
   {
-    "a": "Unknown",
+    "a": "Gibuwagan",
     "q": "Lisod man gani tuohan ang \"On the way\", kana pa kaha imong \"I will stay\""
   },
   {
-    "a": "Unknown",
+    "a": "Lamion",
     "q": "Maypa ning uban. Lami kaayo'g lovelife. Ako tawon, lami ra."
   },
   {
-    "a": "Unknown",
+    "a": "Gabiga",
     "q": "Higugmaa ko nga lami pa sa kinilaw, kay higugmaon pud tika nga ikaw ray makatilaw!"
+  },
+  {
+    "a": "Bigatlon",
+    "q": "Ang lalaki mura'g bag-ong t-shirt, mahumol lang, mulubad na."
+  },
+  {
+    "a": "Bigaon",
+    "q": "Dili tanang broken-hearted gipasakitan o gibinuangan, ang uban gi-gabaan!"
+  },
+  {
+    "a": "Felingon",
+    "q": "Dai, sa ka-baga sa imong make-up, promise! Lungon na la'y kuwang."
   }
 ]
