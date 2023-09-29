@@ -53,7 +53,7 @@
   },
   {
     "a": "Unknown",
-    "q": "Panagsa ra gani ta mo laag, pag uli nato buricat natas tibuok barangay."
+    "q": "Panagsa ra gani ta mo laag, pag uli nato burikat natas tibuok barangay."
   },
   {
     "a": "R",
@@ -106,10 +106,6 @@
   {
     "a": "Nagbiga",
     "q": "Nganong dli man ko ninyo palaagon nga dili man ko mo lapas sa Philippine Area of responsibility."
-  },
-  {
-    "a": "Unknown",
-    "q": "Kanang nag silent cry ka unya naka loud-speak imong sip-on."
   },
   {
     "a": "TS",
@@ -190,5 +186,13 @@
   {
     "a": "R",
     "q": "Unta, tanan loyal nga babae, maadto sa seryoso nga lalaki.\nUg tanan bigaon nga bae, maadto sa manyakis nga laki.\nAron everybody happy."
+  },
+  {
+    "a": "Bigaon",
+    "q": "Na sayo na ang lahat... BURIKAT. IGAT. SIPAT."
+  },
+  {
+    "a": "R",
+    "q": "Mura ko'g kalag, sige'g paramdam nimo,\nMura pud ka'g patay, deadma kaayo. Ahak nalang nimo."
   }
 ]
